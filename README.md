@@ -33,4 +33,3 @@ cargo run --release
 ```powershell
 cargo run --release
 ```
-
